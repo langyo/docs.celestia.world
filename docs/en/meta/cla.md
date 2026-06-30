@@ -1,4 +1,3 @@
-
 # Contributor License Agreement (CLA)
 
 This Contributor License Agreement ("CLA") applies to every contribution accepted

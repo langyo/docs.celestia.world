@@ -1,4 +1,3 @@
-
 # Shittim Chest (什亭之匣)
 <!-- markdownlint-disable MD033 MD041 MD036 -->
 <div align="center">
@@ -8,14 +7,9 @@
 
 **User-facing shell for the [entelecheia](https://github.com/celestia-island/entelecheia) multi-agent platform**
 
-[![License](https://img.shields.io/badge/license-BSL--1.1-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-BSL--1.1-blue.svg)](../../meta/license.md)
 [![Rust](https://img.shields.io/badge/rust-1.85%2B-orange.svg)](https://www.rust-lang.org/)
 [![GitHub](https://img.shields.io/badge/github-celestia--island%2Fshittim--chest-blue.svg)](https://github.com/celestia-island/shittim-chest)
-
-**[English](README.md)** &bull; **[简体中文](docs/guides/zhs/README.md)** &bull;
-**[繁體中文](docs/guides/zht/README.md)** &bull; **[日本語](docs/guides/ja/README.md)** &bull;
-**[한국어](docs/guides/ko/README.md)** &bull; **[Français](docs/guides/fr/README.md)** &bull;
-**[Español](docs/guides/es/README.md)** &bull; **[Русский](docs/guides/ru/README.md)**
 
 </div>
 <!-- markdownlint-enable MD033 MD041 MD036 -->
@@ -35,7 +29,7 @@ just dev    # backend on :3000, frontend on :5173
 
 **Prerequisites**: Rust 1.85+, Node 20+, pnpm 9+, [just](https://github.com/casey/just), PostgreSQL 18+.
 
-**[Architecture](ARCHITECTURE.md)** · **[Contributing](CONTRIBUTING.md)** · **[Security](SECURITY.md)** · **[Docs](docs/guides/en/)**
+**[Architecture](../../designs/webui/architecture.md)** · **[Contributing](CONTRIBUTING.md)** · **[Security](../../meta/security.md)**
 
 ## License
 
