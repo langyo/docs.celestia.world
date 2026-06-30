@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD033 MD041 MD036 -->
 <div align="center">
 
-<img src="docs/logo.webp" alt="Shittim Chest logo" width="200"/>
+<img src="../../logo.webp" alt="Shittim Chest logo" width="200"/>
 
 # Shittim Chest (什亭之匣)
 

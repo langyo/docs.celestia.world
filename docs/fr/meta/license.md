@@ -1,3 +1,5 @@
+# Licence de Source Commerciale 1.1
+
 Licence de Source Commerciale 1.1
 
 Texte de la licence copyright (c) 2017 MariaDB Corporation Ab, Tous Droits Réservés.

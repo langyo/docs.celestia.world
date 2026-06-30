@@ -1,3 +1,5 @@
+# Business Source License 1.1
+
 Business Source License 1.1
 
 Lizenztext Copyright (c) 2017 MariaDB Corporation Ab, Alle Rechte vorbehalten.

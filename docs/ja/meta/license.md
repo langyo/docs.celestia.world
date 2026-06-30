@@ -1,3 +1,5 @@
+# Business Source License 1.1
+
 Business Source License 1.1
 
 ライセンステキスト著作権 (c) 2017 MariaDB Corporation Ab, All Rights Reserved.

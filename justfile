@@ -10,18 +10,18 @@ default:
 
 # Build all language books into target/docs/.
 build:
-    @for lang in {{LANGS}}; do \
+    @for lang in {{ LANGS }}; do \
         echo "Building $lang…"; \
         mdbook build docs/$lang 2>/dev/null || echo "  (skipped $lang — missing content)"; \
     done
 
 # Build a single language book.
 build-lang lang:
-    mdbook build docs/{{lang}}
+    mdbook build docs/{{ lang }}
 
 # Serve a single language book on http://localhost:3000 (or specified port).
 serve lang port="3000":
-    mdbook serve docs/{{lang}} --port {{port}} --open
+    mdbook serve docs/{{ lang }} --port {{ port }} --open
 
 # Serve the English book on the default port.
 serve-en:
@@ -33,7 +33,7 @@ clean:
 
 # Watch and rebuild a single language book (like serve but without browser).
 watch lang:
-    mdbook watch docs/{{lang}}
+    mdbook watch docs/{{ lang }}
 
 # Lint all Markdown files with markdownlint (if available).
 lint:

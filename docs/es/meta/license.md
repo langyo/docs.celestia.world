@@ -1,3 +1,5 @@
+# Licencia de Código Fuente Empresarial 1.1
+
 Licencia de Código Fuente Empresarial 1.1
 
 Texto de la licencia copyright (c) 2017 MariaDB Corporation Ab, Todos los Derechos Reservados.

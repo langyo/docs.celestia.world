@@ -1,3 +1,5 @@
+# Licença de Source Business 1.1
+
 Licença de Source Business 1.1
 
 Texto da licença copyright (c) 2017 MariaDB Corporation Ab, Todos os Direitos Reservados.
