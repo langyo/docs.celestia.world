@@ -24,28 +24,26 @@ documentation + blog site at
 
 ## Projects covered
 
-| Folder name | Project |
+Grouped by function:
+
+| Group | Repositories |
 | --- | --- |
 | `core` | [entelecheia](https://github.com/celestia-island/entelecheia) — multi-agent collaboration platform |
 | `webui` | [shittim-chest](https://github.com/celestia-island/shittim-chest) — user-facing shell |
-| `router` | [evernight](https://github.com/celestia-island/evernight) — remote control & protocol broker |
-| `arona` | [arona](https://github.com/celestia-island/arona) — shared protocol types |
-| `plana` | [plana](https://github.com/celestia-island/plana) — service supervision toolkit |
-| `platform` | cross-project (applies to all of the above) |
+| `platforms` | [arona](https://github.com/celestia-island/arona) (protocol types) · [plana](https://github.com/celestia-island/plana) (service supervision) · [evernight](https://github.com/celestia-island/evernight) (remote control & protocols) · [noa](https://github.com/celestia-island/noa) (DVCS) |
 
 ## Structure
 
-Documentation is organized language-first, mirroring the former `arona/docs`
-layout:
+Organized language-first:
 
 ```text
-docs/<lang>/<category>/<project>/
+docs/<lang>/{meta,designs,guides}/{core,webui,platforms}/
 ```
 
-- **`<lang>`** — `en` (canonical), `zhs`, `zht`, `ja`, `ko`, `fr`, `es`, `ru`
-- **`<category>`** — `architecture`, `design`, `guides`, `meta` (and `blog`
-  for the blog section, once the framework is in place)
-- **`<project>`** — one of the table above
+- **`<lang>`** — `en` (canonical), `zhs`, `zht`, `ja`, `ko`, `fr`, `es`, `ru` (+ `ar` / `de` / `pt` for legal translations)
+- **`meta`** — shared across projects: license, CLA, code-of-conduct, security, contributing
+- **`designs`** — design & architecture docs, grouped by `core` / `webui` / `platforms`
+- **`guides`** — guides plus each repo's README at `guides/<group>/README-<repo>.md`
 
 ## Source repos
 
