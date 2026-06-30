@@ -8,11 +8,11 @@ ADRは[Michael Nygard ADRテンプレート](https://cognitect.com/blog/2011/11/
 
 | ADR | タイトル | ステータス |
 | --- | --- | --- |
-| [ADR-001](en/exec-only-microkernel-tool-surface.md) | Exec-Onlyマイクロカーネルツールサーフェス | 承認済み |
-| [ADR-002](en/boa-javascript-engine.md) | 組込みJavaScriptエンジンとしてのBoa | 承認済み |
-| [ADR-003](en/postgresql-pgvector-storage.md) | 統合データストレージのためのPostgreSQL + PgVector | 承認済み |
-| [ADR-004](en/layered-crate-workspace.md) | 60以上のクレート階層型ワークスペースアーキテクチャ | 承認済み |
-| [ADR-005](en/container-sandboxed-agent-execution.md) | COSMOSによるコンテナサンドボックス化エージェント実行 | 承認済み |
+| [ADR-001](exec-only-microkernel-tool-surface.md) | Exec-Onlyマイクロカーネルツールサーフェス | 承認済み |
+| [ADR-002](boa-javascript-engine.md) | 組込みJavaScriptエンジンとしてのBoa | 承認済み |
+| [ADR-003](postgresql-pgvector-storage.md) | 統合データストレージのためのPostgreSQL + PgVector | 承認済み |
+| [ADR-004](layered-crate-workspace.md) | 60以上のクレート階層型ワークスペースアーキテクチャ | 承認済み |
+| [ADR-005](container-sandboxed-agent-execution.md) | COSMOSによるコンテナサンドボックス化エージェント実行 | 承認済み |
 
 ## 言語ディレクトリ
 

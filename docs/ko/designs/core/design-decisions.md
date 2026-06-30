@@ -8,11 +8,11 @@ ADR은 [Michael Nygard ADR 템플릿](https://cognitect.com/blog/2011/11/15/docu
 
 | ADR | 제목 | 상태 |
 | --- | --- | --- |
-| [ADR-001](en/exec-only-microkernel-tool-surface.md) | Exec-Only 마이크로커널 도구 표면 | 승인됨 |
-| [ADR-002](en/boa-javascript-engine.md) | 임베디드 JavaScript 엔진으로서의 Boa | 승인됨 |
-| [ADR-003](en/postgresql-pgvector-storage.md) | 통합 데이터 저장소를 위한 PostgreSQL + PgVector | 승인됨 |
-| [ADR-004](en/layered-crate-workspace.md) | 60+ 크레이트 계층형 워크스페이스 아키텍처 | 승인됨 |
-| [ADR-005](en/container-sandboxed-agent-execution.md) | COSMOS를 통한 컨테이너 샌드박스 에이전트 실행 | 승인됨 |
+| [ADR-001](exec-only-microkernel-tool-surface.md) | Exec-Only 마이크로커널 도구 표면 | 승인됨 |
+| [ADR-002](boa-javascript-engine.md) | 임베디드 JavaScript 엔진으로서의 Boa | 승인됨 |
+| [ADR-003](postgresql-pgvector-storage.md) | 통합 데이터 저장소를 위한 PostgreSQL + PgVector | 승인됨 |
+| [ADR-004](layered-crate-workspace.md) | 60+ 크레이트 계층형 워크스페이스 아키텍처 | 승인됨 |
+| [ADR-005](container-sandboxed-agent-execution.md) | COSMOS를 통한 컨테이너 샌드박스 에이전트 실행 | 승인됨 |
 
 ## 언어 디렉터리
 

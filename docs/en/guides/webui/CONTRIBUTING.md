@@ -33,7 +33,7 @@ contributions are most useful and most likely to be accepted.
 
 - **CLA required.** Every accepted contribution requires a signed Contributor
 
-License Agreement. See [`CLA.md`](CLA.md). Commits must carry a
+License Agreement. See [`CLA.md`](../meta/cla.md). Commits must carry a
 `Signed-off-by` line (`git commit -s`).
 
 > **The license may open; the merge bar will not.** On **2030-01-01** this
@@ -46,7 +46,7 @@ License Agreement. See [`CLA.md`](CLA.md). Commits must carry a
 
 Do **not** open public issues for security vulnerabilities. Report them privately
 via [GitHub Security Advisories](https://github.com/celestia-island/shittim-chest/security/advisories/new).
-See [`SECURITY.md`](SECURITY.md).
+See [`SECURITY.md`](../meta/security.md).
 
 ## Code of Conduct
 
@@ -289,6 +289,6 @@ commercial uses (hosting, resale, or rebranding as a service) require a separate
 commercial license until the Change Date.
 
 By contributing, you agree that your contributions are licensed under the
-project's license and that you sign the CLA ([`CLA.md`](CLA.md)). The CLA grants
+project's license and that you sign the CLA ([`CLA.md`](../meta/cla.md)). The CLA grants
 the project a permissive license **including the right to relicense**, so the
 project can keep its BUSL→SySL path and adapt its licensing in the future.

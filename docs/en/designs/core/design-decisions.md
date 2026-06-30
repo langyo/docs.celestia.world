@@ -8,11 +8,11 @@ ADRs follow the [Michael Nygard ADR template](https://cognitect.com/blog/2011/11
 
 | ADR | Title | Status |
 | --- | --- | --- |
-| [ADR-001](en/exec-only-microkernel-tool-surface.md) | Exec-Only Microkernel Tool Surface | Accepted |
-| [ADR-002](en/boa-javascript-engine.md) | Boa as Embedded JavaScript Engine | Accepted |
-| [ADR-003](en/postgresql-pgvector-storage.md) | PostgreSQL + PgVector for Unified Data Storage | Accepted |
-| [ADR-004](en/layered-crate-workspace.md) | 60+ Crate Layered Workspace Architecture | Accepted |
-| [ADR-005](en/container-sandboxed-agent-execution.md) | Container-Sandboxed Agent Execution with COSMOS | Accepted |
+| [ADR-001](exec-only-microkernel-tool-surface.md) | Exec-Only Microkernel Tool Surface | Accepted |
+| [ADR-002](boa-javascript-engine.md) | Boa as Embedded JavaScript Engine | Accepted |
+| [ADR-003](postgresql-pgvector-storage.md) | PostgreSQL + PgVector for Unified Data Storage | Accepted |
+| [ADR-004](layered-crate-workspace.md) | 60+ Crate Layered Workspace Architecture | Accepted |
+| [ADR-005](container-sandboxed-agent-execution.md) | Container-Sandboxed Agent Execution with COSMOS | Accepted |
 
 ## Language Directories
 

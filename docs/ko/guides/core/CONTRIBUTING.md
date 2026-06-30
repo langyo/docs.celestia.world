@@ -1,7 +1,7 @@
 # 기여 가이드 (Entelecheia)
 
 > 본 파일은 기여 정책의 한국어 버전입니다. 빌드 명령 및 상세 설치 단계는 저장소 루트의 영문
-> [`CONTRIBUTING.md`](../../../CONTRIBUTING.md)를 참조하십시오. 명령 자체는 번역하지 않습니다. 모호한 점이 있으면 영문 버전을 기준으로 합니다.
+> [`CONTRIBUTING.md`](../meta/CONTRIBUTING.md)를 참조하십시오. 명령 자체는 번역하지 않습니다. 모호한 점이 있으면 영문 버전을 기준으로 합니다.
 
 ## 기여 정책 (먼저 읽어주십시오)
 
@@ -20,7 +20,7 @@ PR, 핵심 보안 또는 정확성 기준을 낮추는 모든 변경, 그리고 
 
 외부 기여가 가장 유용하고 수용될 가능성이 가장 높은 곳입니다.
 
-- **CLA 서명 필수.** 모든 수용된 기여는 기여자 라이선스 동의서 서명이 필요합니다. [`CLA.md`](../../../CLA.md)를 참조하십시오.
+- **CLA 서명 필수.** 모든 수용된 기여는 기여자 라이선스 동의서 서명이 필요합니다. [`CLA.md`](../meta/cla.md)를 참조하십시오.
 
 제출 시 `Signed-off-by` (`git commit -s`)가 포함되어야 합니다.
 
@@ -30,11 +30,11 @@ PR, 핵심 보안 또는 정확성 기준을 낮추는 모든 변경, 그리고 
 ## 보안
 
 공개 issue로 보안 취약점을 보고하지 **마십시오**.
-[GitHub Security Advisories](https://github.com/celestia-island/entelecheia/security/advisories/new)를 통해 비공개로 보고하십시오. 위협 모델 및 대응 SLA는 [`SECURITY.md`](../../../SECURITY.md)를 참조하십시오.
+[GitHub Security Advisories](https://github.com/celestia-island/entelecheia/security/advisories/new)를 통해 비공개로 보고하십시오. 위협 모델 및 대응 SLA는 [`SECURITY.md`](../meta/security.md)를 참조하십시오.
 
 ## 행동 강령
 
-존중, 건설적, 포용적인 태도를 유지해 주십시오. [Contributor Covenant Code of Conduct](../../../CODE_OF_CONDUCT.md)를 따릅니다.
+존중, 건설적, 포용적인 태도를 유지해 주십시오. [Contributor Covenant Code of Conduct](../meta/code-of-conduct.md)를 따릅니다.
 
 ## Pull Request 절차
 
@@ -49,5 +49,5 @@ PR, 핵심 보안 또는 정확성 기준을 낮추는 모든 변경, 그리고 
 
 **BUSL-1.1**을 채택하며, **변경일은 2030-01-01**로, 이후 수신자 선택의 **SySL-1.0**으로 전환됩니다. 현재 내부 운영, 학술, 정부, 교육 및 비상업적 용도에서는 이미 SySL-1.0과 동등합니다([`LICENSE`](../../../LICENSE)의 Additional Use Grant 참조). 제한된 상업적 사용(호스팅, 재판매, 서비스로의 리브랜딩 판매)은 변경일 이전에 별도의 상업 라이선스를 취득해야 합니다.
 
-기여 제출은 본 프로젝트의 라이선스에 따라 라이선스가 부여됨에 동의하고 CLA([`CLA.md`](../../../CLA.md))에 서명함을 의미합니다. CLA는
+기여 제출은 본 프로젝트의 라이선스에 따라 라이선스가 부여됨에 동의하고 CLA([`CLA.md`](../meta/cla.md))에 서명함을 의미합니다. CLA는
 프로젝트에 **재라이선스 권한을 포함한** 관대한 라이선스를 부여하여, 프로젝트가 BUSL→SySL 경로를 유지하고 향후 라이선스를 조정할 수 있도록 합니다.

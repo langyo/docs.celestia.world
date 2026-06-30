@@ -281,7 +281,7 @@ Every tool invocation, agent decision, and security event is:
 
 ## Reporting Vulnerabilities
 
-See [SECURITY.md](../SECURITY.md) for the vulnerability reporting process.
+See [SECURITY.md](../../meta/security.md) for the vulnerability reporting process.
 
 ## License
 

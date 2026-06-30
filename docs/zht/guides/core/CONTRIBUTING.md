@@ -1,7 +1,7 @@
 # 貢獻指南（Entelecheia）
 
 > 本文件是貢獻政策的繁體中文版本。構建命令與詳細安裝步驟請見倉庫根目錄的英文
-> [`CONTRIBUTING.md`](../../../CONTRIBUTING.md)；命令本身不翻譯。如有歧義，以英文版為準。
+> [`CONTRIBUTING.md`](../meta/CONTRIBUTING.md)；命令本身不翻譯。如有歧義，以英文版為準。
 
 ## 貢獻政策（請先閱讀）
 
@@ -25,7 +25,7 @@ PR、任何降低核心安全或正確性門檻的改動，以及未經邀請與
 
 是外部貢獻最有用、也最可能被接受的地方。
 
-- **必須簽署 CLA。** 每一個被接受的貢獻都需要簽署貢獻者許可協定，見 [`CLA.md`](../../../CLA.md)。
+- **必須簽署 CLA。** 每一個被接受的貢獻都需要簽署貢獻者許可協定，見 [`CLA.md`](../meta/cla.md)。
 
 提交須帶 `Signed-off-by`（`git commit -s`）。
 
@@ -36,11 +36,11 @@ PR、任何降低核心安全或正確性門檻的改動，以及未經邀請與
 
 **不要**用公開 issue 報告安全漏洞。請透過
 [GitHub Security Advisories](https://github.com/celestia-island/entelecheia/security/advisories/new)
-私下報告。威脅模型與回應 SLA 見 [`SECURITY.md`](../../../SECURITY.md)。
+私下報告。威脅模型與回應 SLA 見 [`SECURITY.md`](../meta/security.md)。
 
 ## 行為準則
 
-請保持尊重、建設性與包容。我們遵循 [Contributor Covenant Code of Conduct](../../../CODE_OF_CONDUCT.md)。
+請保持尊重、建設性與包容。我們遵循 [Contributor Covenant Code of Conduct](../meta/code-of-conduct.md)。
 
 ## Pull Request 流程
 
@@ -57,5 +57,5 @@ PR、任何降低核心安全或正確性門檻的改動，以及未經邀請與
 [`LICENSE`](../../../LICENSE) 中的 Additional Use Grant）。受限的商業用途（託管、轉售、作為
 服務換皮銷售）在 Change Date 之前需另行獲取商業授權。
 
-提交貢獻即表示你同意貢獻按本專案許可證授權，並簽署 CLA（[`CLA.md`](../../../CLA.md)）。CLA
+提交貢獻即表示你同意貢獻按本專案許可證授權，並簽署 CLA（[`CLA.md`](../meta/cla.md)）。CLA
 授予專案**含再許可權在內的**寬鬆許可，使專案能保持 BUSL→SySL 的路徑，並在未來調整許可。

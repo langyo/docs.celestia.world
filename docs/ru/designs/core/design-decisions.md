@@ -8,11 +8,11 @@ ADR следуют [шаблону ADR Майкла Найгарда](https://co
 
 | ADR | Название | Статус |
 | --- | --- | --- |
-| [ADR-001](en/exec-only-microkernel-tool-surface.md) | Поверхность Инструментов Микроядра Только для Выполнения | Принято |
-| [ADR-002](en/boa-javascript-engine.md) | Boa как Встроенный Движок JavaScript | Принято |
-| [ADR-003](en/postgresql-pgvector-storage.md) | PostgreSQL + PgVector для Унифицированного Хранения Данных | Принято |
-| [ADR-004](en/layered-crate-workspace.md) | Слоистая Архитектура Рабочего Пространства из 60+ Крейтов | Принято |
-| [ADR-005](en/container-sandboxed-agent-execution.md) | Изолированное в Контейнере Выполнение Агентов с COSMOS | Принято |
+| [ADR-001](exec-only-microkernel-tool-surface.md) | Поверхность Инструментов Микроядра Только для Выполнения | Принято |
+| [ADR-002](boa-javascript-engine.md) | Boa как Встроенный Движок JavaScript | Принято |
+| [ADR-003](postgresql-pgvector-storage.md) | PostgreSQL + PgVector для Унифицированного Хранения Данных | Принято |
+| [ADR-004](layered-crate-workspace.md) | Слоистая Архитектура Рабочего Пространства из 60+ Крейтов | Принято |
+| [ADR-005](container-sandboxed-agent-execution.md) | Изолированное в Контейнере Выполнение Агентов с COSMOS | Принято |
 
 ## Языковые Директории
 

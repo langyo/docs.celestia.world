@@ -10,13 +10,13 @@ Shittim Chest 是一个可以驱动物理和工业系统平台的面向用户界
 - **我们欢迎的：** Bug 报告、有针对性的修复、对**外围**（IDE 插件、Tauri 应用、频道集成、提供商适配器和文档）的有清晰范围改进，以及编码前的设计讨论。
 - **我们通常不会合并的：** 大型主动重写、未经事先设计讨论的架构变更、批量"氛围编码"的 PR、任何降低核心安全性或正确性门槛的内容，以及未经明确邀请和深入审核对安全关键核心（认证、JWT/OAuth、LLM 路由、Webhook 验证、RBAC）的更改。
 - **核心 vs. 外围。** 核心后端和认证/RBAC 模型遵循最严格的标准，主要由核心团队维护。外围（前端、IDE/移动应用、频道连接器）是外部贡献最有价值和最有可能被接受的地方。
-- **需要 CLA。** 每个被接受的贡献都需要签署贡献者许可协议。请参阅 [`CLA.md`](CLA.md)。提交必须带有 `Signed-off-by` 行（`git commit -s`）。
+- **需要 CLA。** 每个被接受的贡献都需要签署贡献者许可协议。请参阅 [`CLA.md`](../meta/cla.md)。提交必须带有 `Signed-off-by` 行（`git commit -s`）。
 
 > **许可证可能开放；合并门槛不会降低。** 于 **2030-01-01** 本项目从 BUSL-1.1 转换为 Synthetic Source License (SySL-1.0)——详见 [`LICENSE`](LICENSE)。这扩大了*您可以对代码做什么*的范围；但**不会**降低审核门槛、移除 CLA、或意味着我们会接受更多 PR。贡献政策在变更日期前后保持不变。
 
 ## 安全
 
-请**不要**为安全漏洞开放公开 Issue。请通过 [GitHub 安全公告](https://github.com/celestia-island/shittim-chest/security/advisories/new) 私下报告。请参阅 [`SECURITY.md`](SECURITY.md)。
+请**不要**为安全漏洞开放公开 Issue。请通过 [GitHub 安全公告](https://github.com/celestia-island/shittim-chest/security/advisories/new) 私下报告。请参阅 [`SECURITY.md`](../meta/security.md)。
 
 ## 行为准则
 
@@ -247,4 +247,4 @@ chore(deps): bump axum to 0.8
 
 Shittim Chest 采用 **Business Source License 1.1 (BUSL-1.1)** 许可，**变更日期为 2030-01-01**，届时转换为 **Synthetic Source License (SySL-1.0)**。对于所有内部、学术、政府、教育和非商业用途，目前已等同于 SySL-1.0（参见 [`LICENSE`](LICENSE) 中的附加使用授权）。受限的商业用途（托管、转售或将品牌重新包装为服务）在变更日期之前需要单独的商用许可证。
 
-通过贡献，您同意您的贡献在本项目的许可证下许可，并且您签署 CLA（[`CLA.md`](CLA.md)）。CLA 授予项目宽松的许可权，**包括重新许可的权利**，因此项目可以保持其 BUSL→SySL 的路径，并适应未来的许可需求。
+通过贡献，您同意您的贡献在本项目的许可证下许可，并且您签署 CLA（[`CLA.md`](../meta/cla.md)）。CLA 授予项目宽松的许可权，**包括重新许可的权利**，因此项目可以保持其 BUSL→SySL 的路径，并适应未来的许可需求。

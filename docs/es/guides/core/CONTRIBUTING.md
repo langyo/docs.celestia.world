@@ -1,7 +1,7 @@
 # Guía de contribución (Entelecheia)
 
 > Este documento es la versión en español de la política de contribución. Para comandos de construcción e instrucciones detalladas de instalación, consulta el documento en inglés en la raíz del repositorio
-> [`CONTRIBUTING.md`](../../../CONTRIBUTING.md); los comandos en sí no se traducen. En caso de ambigüedad, prevalece la versión en inglés.
+> [`CONTRIBUTING.md`](../meta/CONTRIBUTING.md); los comandos en sí no se traducen. En caso de ambigüedad, prevalece la versión en inglés.
 
 ## Política de contribución (lee esto primero)
 
@@ -24,7 +24,7 @@ cualquier cambio que reduzca el umbral de seguridad o corrección del núcleo, y
 
 La periferia es donde las contribuciones externas son más útiles y tienen más probabilidades de ser aceptadas.
 
-- **Debes firmar el CLA.** Cada contribución aceptada requiere la firma del Acuerdo de Licencia de Contribuidor, ver [`CLA.md`](../../../CLA.md).
+- **Debes firmar el CLA.** Cada contribución aceptada requiere la firma del Acuerdo de Licencia de Contribuidor, ver [`CLA.md`](../meta/cla.md).
 
 Los envíos deben incluir `Signed-off-by` (`git commit -s`).
 
@@ -35,11 +35,11 @@ Los envíos deben incluir `Signed-off-by` (`git commit -s`).
 
 **No** reportes vulnerabilidades de seguridad mediante issues públicos. Por favor, repórtalas de forma privada a través de
 [GitHub Security Advisories](https://github.com/celestia-island/entelecheia/security/advisories/new).
-El modelo de amenazas y el SLA de respuesta se encuentran en [`SECURITY.md`](../../../SECURITY.md).
+El modelo de amenazas y el SLA de respuesta se encuentran en [`SECURITY.md`](../meta/security.md).
 
 ## Código de conducta
 
-Por favor, mantén el respeto, la constructividad y la inclusión. Seguimos el [Contributor Covenant Code of Conduct](../../../CODE_OF_CONDUCT.md).
+Por favor, mantén el respeto, la constructividad y la inclusión. Seguimos el [Contributor Covenant Code of Conduct](../meta/code-of-conduct.md).
 
 ## Proceso de Pull Request
 
@@ -55,5 +55,5 @@ Por favor, mantén el respeto, la constructividad y la inclusión. Seguimos el [
 Se adopta **BUSL-1.1**, con **Fecha de Cambio el 2030-01-01**, momento en el cual pasará a **SySL-1.0** a elección del receptor. Actualmente, para operaciones internas, académicas, gubernamentales, educativas y usos no comerciales, ya equivale a SySL-1.0 (ver
 la Concesión de Uso Adicional en [`LICENSE`](../../../LICENSE)). Los usos comerciales restringidos (alojamiento, reventa, venta como servicio con cambio de marca) requieren una licencia comercial separada antes de la Fecha de Cambio.
 
-Al enviar una contribución, aceptas que esta se licencie bajo la licencia del proyecto y firmas el CLA ([`CLA.md`](../../../CLA.md)). El CLA
+Al enviar una contribución, aceptas que esta se licencie bajo la licencia del proyecto y firmas el CLA ([`CLA.md`](../meta/cla.md)). El CLA
 otorga al proyecto una licencia permisiva **con derechos de sublicencia incluidos**, permitiendo que el proyecto mantenga la ruta BUSL→SySL y ajuste la licencia en el futuro.

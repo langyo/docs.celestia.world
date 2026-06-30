@@ -30,7 +30,7 @@ JWT/OAuth、LLM 路由、webhook 驗證、RBAC）的變更。
 
 - **需要 CLA。** 每個被接受的貢獻都需要簽署貢獻者授權協議。
 
-請參閱 [`CLA.md`](CLA.md)。提交必須帶有 `Signed-off-by` 行
+請參閱 [`CLA.md`](../meta/cla.md)。提交必須帶有 `Signed-off-by` 行
 （`git commit -s`）。
 
 > **授權可能會開放；合併門檻不會。** 在 **2030-01-01**，本專案
@@ -43,7 +43,7 @@ JWT/OAuth、LLM 路由、webhook 驗證、RBAC）的變更。
 
 **不要**為安全漏洞開立公開 issue。請透過
 [GitHub 安全諮詢](https://github.com/celestia-island/shittim-chest/security/advisories/new)
-私下回報。請參閱 [`SECURITY.md`](SECURITY.md)。
+私下回報。請參閱 [`SECURITY.md`](../meta/security.md)。
 
 ## 行為準則
 
@@ -285,6 +285,6 @@ Shittim Chest 依據 **Business Source License 1.1 (BUSL-1.1)** 授權，
 單獨的商業授權。
 
 透過貢獻，您同意您的貢獻依據本專案的授權條款授權，
-並且您簽署了 CLA（[`CLA.md`](CLA.md)）。CLA 授予本專案
+並且您簽署了 CLA（[`CLA.md`](../meta/cla.md)）。CLA 授予本專案
 一個寬鬆的授權，**包括重新授權的權利**，因此本專案可以
 保持其 BUSL→SySL 路徑並在未來調整其授權。

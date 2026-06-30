@@ -8,11 +8,11 @@ ADR 遵循 [Michael Nygard ADR 模板](https://cognitect.com/blog/2011/11/15/doc
 
 | ADR | 标题 | 状态 |
 | --- | --- | --- |
-| [ADR-001](en/exec-only-microkernel-tool-surface.md) | 仅执行微内核工具表面 | 已接受 |
-| [ADR-002](en/boa-javascript-engine.md) | Boa 作为嵌入式 JavaScript 引擎 | 已接受 |
-| [ADR-003](en/postgresql-pgvector-storage.md) | PostgreSQL + PgVector 用于统一数据存储 | 已接受 |
-| [ADR-004](en/layered-crate-workspace.md) | 60+ Crate 分层工作区架构 | 已接受 |
-| [ADR-005](en/container-sandboxed-agent-execution.md) | 使用 COSMOS 实现容器沙箱 Agent 执行 | 已接受 |
+| [ADR-001](exec-only-microkernel-tool-surface.md) | 仅执行微内核工具表面 | 已接受 |
+| [ADR-002](boa-javascript-engine.md) | Boa 作为嵌入式 JavaScript 引擎 | 已接受 |
+| [ADR-003](postgresql-pgvector-storage.md) | PostgreSQL + PgVector 用于统一数据存储 | 已接受 |
+| [ADR-004](layered-crate-workspace.md) | 60+ Crate 分层工作区架构 | 已接受 |
+| [ADR-005](container-sandboxed-agent-execution.md) | 使用 COSMOS 实现容器沙箱 Agent 执行 | 已接受 |
 
 ## 语言目录
 

@@ -32,7 +32,7 @@ surface are held to the strictest bar and maintained by the core team.
 
 - **CLA required.** Every accepted contribution requires a signed Contributor
 
-License Agreement. See [`CLA.md`](CLA.md). Commits must carry a
+License Agreement. See [`CLA.md`](cla.md). Commits must carry a
 `Signed-off-by` line (`git commit -s`).
 
 > **The license may open; the merge bar will not.** On **2030-01-01** this
@@ -45,12 +45,12 @@ License Agreement. See [`CLA.md`](CLA.md). Commits must carry a
 
 Do **not** open public issues for security vulnerabilities. Report them privately
 via [GitHub Security Advisories](https://github.com/celestia-island/arona/security/advisories/new).
-See [`SECURITY.md`](SECURITY.md).
+See [`SECURITY.md`](security.md).
 
 ## Code of Conduct
 
 Be respectful, constructive, and inclusive. We follow the
-[Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+[Contributor Covenant Code of Conduct](code-of-conduct.md).
 
 ## Development
 
@@ -93,6 +93,6 @@ Additional Use Grant in [`LICENSE`](LICENSE)). Restricted commercial uses
 license until the Change Date.
 
 By contributing, you agree that your contributions are licensed under the
-project's license and that you sign the CLA ([`CLA.md`](CLA.md)). The CLA grants
+project's license and that you sign the CLA ([`CLA.md`](cla.md)). The CLA grants
 the project a permissive license **including the right to relicense**, so the
 project can keep its BUSL→Apache/MIT path and adapt its licensing in the future.

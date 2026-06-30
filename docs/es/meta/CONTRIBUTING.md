@@ -32,7 +32,7 @@ serialización se mantienen con el listón más estricto y son mantenidas por el
 
 - **CLA requerido.** Cada contribución aceptada requiere un Acuerdo de Licencia del
 
-Contribuyente firmado. Ver [`CLA.md`](CLA.md). Los commits deben incluir una
+Contribuyente firmado. Ver [`CLA.md`](cla.md). Los commits deben incluir una
 línea `Signed-off-by` (`git commit -s`).
 
 > **La licencia puede abrirse; el listón de fusión no.** El **2030-01-01** este
@@ -45,12 +45,12 @@ línea `Signed-off-by` (`git commit -s`).
 
 **No** abras issues públicos para vulnerabilidades de seguridad. Repórtalas de forma privada
 a través de [Avisos de Seguridad de GitHub](https://github.com/celestia-island/arona/security/advisories/new).
-Ver [`SECURITY.md`](SECURITY.md).
+Ver [`SECURITY.md`](security.md).
 
 ## Código de Conducta
 
 Sé respetuoso, constructivo e inclusivo. Seguimos el
-[Código de Conducta del Contributor Covenant](CODE_OF_CONDUCT.md).
+[Código de Conducta del Contributor Covenant](code-of-conduct.md).
 
 ## Desarrollo
 
@@ -93,6 +93,6 @@ Concesión de Uso Adicional en [`LICENSE`](LICENSE)). Los usos comerciales restr
 separada hasta la Fecha de Cambio.
 
 Al contribuir, aceptas que tus contribuciones se licencian bajo la
-licencia del proyecto y que firmas el CLA ([`CLA.md`](CLA.md)). El CLA concede
+licencia del proyecto y que firmas el CLA ([`CLA.md`](cla.md)). El CLA concede
 al proyecto una licencia permisiva **incluyendo el derecho de relicenciar**, para que el
 proyecto pueda mantener su ruta BUSL→Apache/MIT y adaptar su licenciamiento en el futuro.

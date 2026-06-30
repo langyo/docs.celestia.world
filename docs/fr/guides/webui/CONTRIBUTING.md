@@ -33,7 +33,7 @@ externes sont les plus utiles et les plus susceptibles d'être acceptées.
 
 - **CLA requis.** Chaque contribution acceptée nécessite un Accord de Licence du Contributeur
 
-signé. Voir [`CLA.md`](CLA.md). Les commits doivent porter une
+signé. Voir [`CLA.md`](../meta/cla.md). Les commits doivent porter une
 ligne `Signed-off-by` (`git commit -s`).
 
 > **La licence peut s'ouvrir ; la barre de fusion ne le fera pas.** Le **2030-01-01** ce
@@ -46,7 +46,7 @@ ligne `Signed-off-by` (`git commit -s`).
 
 N'ouvrez **pas** de tickets publics pour les vulnérabilités de sécurité. Signalez-les en privé
 via [les Avis de Sécurité GitHub](https://github.com/celestia-island/shittim-chest/security/advisories/new).
-Voir [`SECURITY.md`](SECURITY.md).
+Voir [`SECURITY.md`](../meta/security.md).
 
 ## Code de Conduite
 
@@ -289,6 +289,6 @@ commerciaux restreints (hébergement, revente ou rebranding en tant que service)
 commerciale séparée jusqu'à la Date de Changement.
 
 En contribuant, vous acceptez que vos contributions soient sous licence du
-projet et que vous signez le CLA ([`CLA.md`](CLA.md)). Le CLA accorde
+projet et que vous signez le CLA ([`CLA.md`](../meta/cla.md)). Le CLA accorde
 au projet une licence permissive **incluant le droit de re-licencier**, afin que le
 projet puisse conserver son chemin BUSL→SySL et adapter sa licence à l'avenir.

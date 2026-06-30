@@ -1,7 +1,7 @@
 # Contributing Guide (Entelecheia)
 
 > This file is the English version of the contribution policy. For build commands and detailed installation steps, see
-> [`CONTRIBUTING.md`](../../../CONTRIBUTING.md) in the repository root; the commands themselves are not translated.
+> [`CONTRIBUTING.md`](../meta/CONTRIBUTING.md) in the repository root; the commands themselves are not translated.
 > In case of ambiguity, the English version is authoritative.
 
 ## Contribution Policy (please read first)
@@ -29,7 +29,7 @@ be accepted.
 
 - **A CLA must be signed.** Every accepted contribution requires signing the Contributor License Agreement, see
 
-[`CLA.md`](../../../CLA.md). Commits must carry `Signed-off-by` (`git commit -s`).
+[`CLA.md`](../meta/cla.md). Commits must carry `Signed-off-by` (`git commit -s`).
 
 > **The license will open up; the merge bar will not.** On **2030-01-01**, this project transitions from BUSL-1.1 to
 > SySL-1.0 (recipient's choice), see [`LICENSE`](../../../LICENSE). This relaxes *what you may do with the code*, but
@@ -40,12 +40,12 @@ be accepted.
 
 **Do not** report security vulnerabilities via public issues. Please report them privately via
 [GitHub Security Advisories](https://github.com/celestia-island/entelecheia/security/advisories/new).
-For the threat model and response SLA, see [`SECURITY.md`](../../../SECURITY.md).
+For the threat model and response SLA, see [`SECURITY.md`](../meta/security.md).
 
 ## Code of Conduct
 
 Please be respectful, constructive, and inclusive. We follow the
-[Contributor Covenant Code of Conduct](../../../CODE_OF_CONDUCT.md).
+[Contributor Covenant Code of Conduct](../meta/code-of-conduct.md).
 
 ## Pull Request Process
 
@@ -64,5 +64,5 @@ SySL-1.0 (see the Additional Use Grant in [`LICENSE`](../../../LICENSE)). Restri
 selling as a service wrapper) requires separate commercial authorization before the Change Date.
 
 Submitting a contribution means you agree that the contribution is licensed under this project's license and that you
-sign the CLA ([`CLA.md`](../../../CLA.md)). The CLA grants the project **a permissive license including relicensing
+sign the CLA ([`CLA.md`](../meta/cla.md)). The CLA grants the project **a permissive license including relicensing
 rights**, allowing the project to maintain the BUSL→SySL path and to adjust licensing in the future.

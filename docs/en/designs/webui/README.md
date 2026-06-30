@@ -1,7 +1,7 @@
 # Design Documents
 
 > **Note**: These design documents describe the intended architecture and behavior — some features may still be in progress.
-> For the current implementation status, see [ARCHITECTURE.md](../../ARCHITECTURE.md) at the repository root.
+> For the current implementation status, see [ARCHITECTURE.md](../../designs/core/architecture.md) at the repository root.
 
 ## Language Directories
 
