@@ -50,6 +50,8 @@ docs/
 
 `en` (canonical) · `zhs` · `zht` · `ja` · `ko` · `fr` · `es` · `ru` · `de` · `pt` · `ar`
 
+> `de`, `pt`, and `ar` are partial translations (meta/legal documents only).
+
 ## Building
 
 ```bash
