@@ -298,6 +298,7 @@ webui 使用 **`vue-i18n`**（非自訂實作）具有 **11 種宣告的語言**
 > | 翻譯良好 | `ja`、`ko`、`zhs`、`zht` | ~5% | `zhs` 缺少 18 個鍵值；其他缺少 112 個 |
 > | 大部分已翻譯 | `de`、`fr`、`pt`、`es`、`ar` | ~9–14% | 缺少共享的 112 鍵區塊 |
 > | 實際上未翻譯 | `ru` | **~76%** | 完整的鍵值平齊，但值為逐字英文 |
+>
 > 共享的 112 鍵缺口涵蓋較新的功能：`admin.agents.*`、`admin.deviceModels.*`、`admin.projects.*`、`admin.rbac.*`、`admin.resourceQuota.*`、`auth.protocol.*`、`chat.cruise.*`、`chat.voice_*`。
 
 ## RBAC 架構

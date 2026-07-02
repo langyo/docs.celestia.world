@@ -1101,6 +1101,7 @@ flowchart TB
 
 ## 執行時資料庫解析順序
 
+```rust
 // packages/scepter/src/app/setup.rs
 let `db_url` = if let Ok(url) = std::env::var("DATABASE_URL") {
 // 1. 環境變數（正式環境：Docker PG，開發：.env 檔案）
@@ -1124,6 +1125,7 @@ url
 return Err(/* "未配置 DATABASE_URL" */);
 }
 };
+```
 
 ## 測試工具模式
 

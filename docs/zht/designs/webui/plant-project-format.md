@@ -255,7 +255,7 @@ Connection 結構（通用）：
 | id | string | 連線 ID |
 | from | string | 起點實體 ID (node / sensor / plc / utility) |
 | to | string | 終點實體 ID |
-| points | [x,y][] | 折線路徑座標 |
+| points | `[x,y]` | 折線路徑座標 |
 | protocol | string | 訊號線協定 (Modbus / 4-20mA / Profibus / HART / OPC-UA) |
 | voltage | string | 電力電纜電壓 |
 | medium | string | 水管介質 |
