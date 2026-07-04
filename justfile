@@ -3,6 +3,8 @@
 set shell := ["bash", "-c"]
 set dotenv-load := false
 
+import "./celestia-devtools.just"
+
 default:
     @just --list
 
