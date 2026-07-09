@@ -2,6 +2,8 @@
 title = "Celestia World Docs"
 description = "Centralized documentation hub for the celestia-island ecosystem"
 
+cname = "docs.celestia.world"
+
 [languages]
 default = "en"
 order = ["en", "zhs", "zht", "ja", "ko", "de", "fr", "es", "pt", "ru", "ar"]
