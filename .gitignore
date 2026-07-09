@@ -11,6 +11,9 @@ __pycache__/
 .idea/
 *.iml
 
+# Logs
+*.log
+
 # mdBook
 /target/
 .mdbook/
