@@ -64,7 +64,7 @@ Produktionseinsatz freigegebene OAuth-Anwendung.
 ## 4. Semantische Suche und Wissen
 
 - `search.semantic` bridgt zur Vektorsuche von scepter (ApoRia-Workspace-Index
-  + PhiLia-Langzeiterinnerungen, fusioniert zu einer gerankten Liste).
+  plus PhiLia-Langzeiterinnerungen, fusioniert zu einer gerankten Liste).
 - Wissensbasen (anlegen / Dokumente hinzufügen / abonnieren) werden in Postgres
   persistiert und sind über dieselbe RPC-Oberfläche durchsuchbar.
 - Agentenberichte werden automatisch indiziert, sodass frühere Berichte
